@@ -1,0 +1,18 @@
+body {
+	background-image: url("cat3.jpg");
+}
+.roby {
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: black;
+	color: white;
+	height: 400px;
+	width: 300px;
+	text-align: center;
+	flex-direction: column;
+}
+
+#root {
+	flex-wrap: wrap;
+	display: flex;
+}

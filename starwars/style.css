@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://i.giphy.com/media/TxVVB6PfWMjE4/200.webp");
+    background-color: #cccccc;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    text-align: center;
+    font-size: 15px;
+}
+
+#logo {
+    background: url("https://i.dlpng.com/static/png/253278_thumb.png") center center no-repeat;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#frame {
+    color: white;
+    font-family: Arial;
+    font-size: 30px;
+    margin: auto;
+    width: 600px;
+    height: 40%;
+    border: 3px solid yellow;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+#clickme {
+    display: block;
+    margin: auto;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 20px;
+    color: whitesmoke;
+    font-family: fantasy;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+
+
+
